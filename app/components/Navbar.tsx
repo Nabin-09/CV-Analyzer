@@ -8,6 +8,9 @@ const Navbar = () =>{
             <Link to = '/'>
             <p className="text-2xl font-bold text-gradient">REZLYZER</p>
             </Link>
+            <Link to = '/upload' className="primary-button w-fit">
+                Upload Resume
+            </Link>
         </nav>
     )
 }

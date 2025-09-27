@@ -14,8 +14,11 @@ export default function Home() {
     <div className="page-heading">
       <h1>Track you applications & Resume ratings</h1>
       <h2>Review your submissions and check AI-powered feedback.</h2>
-    </div>
-     
+    </div> 
   </section>
+
+  {[
+   
+  ]}
   </main>
 }
